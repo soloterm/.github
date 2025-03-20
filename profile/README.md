@@ -13,6 +13,7 @@ In this GitHub org, you'll find the following repositories:
 
 - [Solo](https://github.com/soloterm/solo): your all-in-one Laravel command to tame local development.
 - [Grapheme](https://github.com/soloterm/grapheme): a PHP package to measure the width of unicode strings rendered to a terminal.
+- [Solo Dumps](https://github.com/soloterm/dumps): a Laravel command to intercept dumps from your Laravel application.
 
 
 If you'd like to support the project, please head to [aaronfrancis.com/backstage](https://aaronfrancis.com/backstage) or [GitHub Sponsors](https://github.com/sponsors/aarondfrancis)! Your support makes this possible.
