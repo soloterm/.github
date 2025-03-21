@@ -12,7 +12,7 @@ Try Hard Studios is a purveyor of fine educational material, including:
 In this GitHub org, you'll find the following repositories:
 
 - [Solo](https://github.com/soloterm/solo): your all-in-one Laravel command to tame local development.
-- [Solo Screen](https://github.com/soloterm/screen): a terminal emulator written in pure PHP.
+- [Solo Screen](https://github.com/soloterm/screen): a terminal renderer written in pure PHP.
 - [Solo Dumps](https://github.com/soloterm/dumps): a Laravel command to intercept dumps from your Laravel application.
 - [Grapheme](https://github.com/soloterm/grapheme): a PHP package to measure the width of unicode strings rendered to a terminal.
 
