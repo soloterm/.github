@@ -15,6 +15,8 @@ In this GitHub org, you'll find the following repositories:
 - [Solo Screen](https://github.com/soloterm/screen): a terminal renderer written in pure PHP.
 - [Solo Dumps](https://github.com/soloterm/dumps): a Laravel command to intercept dumps from your Laravel application.
 - [Grapheme](https://github.com/soloterm/grapheme): a PHP package to measure the width of unicode strings rendered to a terminal.
+- [Notify](https://github.com/soloterm/notify): a PHP package to send desktop notifications via OSC escape sequences in terminal applications.
+- [Notify Laravel](https://github.com/soloterm/notify-laravel): Laravel integration for soloterm/notify - send desktop notifications from Artisan commands.
 
 
 If you'd like to support the project, please head to [aaronfrancis.com/backstage](https://aaronfrancis.com/backstage) or [GitHub Sponsors](https://github.com/sponsors/aarondfrancis)! Your support makes this possible.
