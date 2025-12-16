@@ -16,6 +16,8 @@ In this GitHub org, you'll find the following repositories:
 - [Grapheme](https://github.com/soloterm/grapheme): a PHP package to measure the width of unicode strings rendered to a terminal.
 - [Notify](https://github.com/soloterm/notify): a PHP package to send desktop notifications via OSC escape sequences in terminal applications.
 - [Notify Laravel](https://github.com/soloterm/notify-laravel): Laravel integration for soloterm/notify - send desktop notifications from Artisan commands.
+- [TNotify](https://github.com/soloterm/tnotify): a standalone, cross-platform CLI tool to send desktop notifications from the terminal via OSC escape sequences or native tools.
+- [VTail](https://github.com/soloterm/vtail): vendor-aware tail for Laravel logs with stack trace formatting and vendor frame collapsing.
 
 
 If you'd like to support the project, please help spread the word about things we make!
