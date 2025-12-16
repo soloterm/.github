@@ -5,7 +5,7 @@ Solo is a project by [Aaron Francis](https://x.com/aarondfrancis) and contributo
 Try Hard Studios is a purveyor of fine educational material, including:
 
 - [Screencasting.com](https://screencasting.com): make high quality screencasts faster than ever.
-- [Database School](https://databaseschool.com): comprehensive courses on PostgreSQL and SQLite.
+- [Database School](https://databaseschool.com): comprehensive courses on MySQL, PostgreSQL, and SQLite.
 - [High Leverage Rails](https://highleveragerails.com/): an in-depth video course on Rails + SQLite for beginners.
 
 In this GitHub org, you'll find the following repositories:
